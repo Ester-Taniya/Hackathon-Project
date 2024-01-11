@@ -1,0 +1,12 @@
+Tatiana: chat bot that gives advice about missels atacks depending on the city
+The project is well structured and the code is clean and easy to follow, using OOP as well.
+The connection to the db is made in a separate file, which makes it reusable and that's great
+Good use of datetime module. 
+The data about the atacks history is made through API and JSON.
+It is a really good project, I just wish it was working in the deadline for the Hackathon.
+
+Python OOP:10/10
+Modules: 7/10
+Database:9/10
+JSON/API:9/10
+Overall: 9
